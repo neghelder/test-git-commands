@@ -1,5 +1,5 @@
-function Viewer() {
-  return {
-    name: "viewer"
+class Viewer {
+  constructor() {
+    this.name = "viewer";
   }
 }
